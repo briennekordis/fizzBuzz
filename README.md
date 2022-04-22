@@ -2,7 +2,7 @@
 fizzBuzz
 
 ## General Info & Description
-A PHP project from Codecademy's [Learn PHP](https://www.codecademy.com/learn/learn-php) course that uses while, for, and foreach 
+A guided project from Codecademy's [Learn PHP](https://www.codecademy.com/learn/learn-php) course that uses while, for, and foreach 
 loops to count from 1-100 and prints "Fizz", "Buzz", or "FizzBuzz" depending on if the number is divisible by 3, 5, or 3 and 5.
 
 ## Tools & Technologies
